@@ -90,7 +90,7 @@
   {
     "ID":"RAZCYNOS",
     "PNAME":"Cynosa Chroma",
-    "GNAME":"razer_cynosa_chroma.png",
+    "GNAME":"razer_cynosa.png",
     "PRICE":"19.99",
     "MSRP":"59.99",
     "QONHAND":"150",
@@ -101,7 +101,7 @@
   {
     "ID":"RAZORBWEAV",
     "PNAME":"Orbweaver Chroma",
-    "GNAME":"razer_orbweaver_chroma.png",
+    "GNAME":"razer_orbweaver.png",
     "PRICE":"49.99",
     "MSRP":"149.99",
     "QONHAND":"200",
@@ -112,7 +112,7 @@
   {
     "ID":"ASUSCLAYMOR",
     "PNAME":"ROG Claymore",
-    "GNAME":"asus_rog_claymore.png",
+    "GNAME":"asus_claymore.png",
     "PRICE":"99.99",
     "MSRP":"299.99",
     "QONHAND":"175",
@@ -123,7 +123,7 @@
   {
     "ID":"ASUSFLARE",
     "PNAME":"ROG Strix Flare",
-    "GNAME":"asus_rog_strix_flare.png",
+    "GNAME":"asus_strix_flare.png",
     "PRICE":"49.99",
     "MSRP":"199.99",
     "QONHAND":"125",
@@ -134,7 +134,7 @@
   {
     "ID":"ASUSCERBER",
     "PNAME":"Cerberus Keyboard",
-    "GNAME":"asus_cerberus_keyboard.png",
+    "GNAME":"asus_cerberus.png",
     "PRICE":"39.99",
     "MSRP":"129.99",
     "QONHAND":"100",
@@ -145,7 +145,7 @@
   {
     "ID":"ASUSTUFK5",
     "PNAME":"TUF Gaming K5",
-    "GNAME":"asus_tuf_gaming_k5.png",
+    "GNAME":"asus_tuf_k5.png",
     "PRICE":"19.99",
     "MSRP":"99.99",
     "QONHAND":"50",
@@ -156,7 +156,7 @@
   {
     "ID":"ASUSSCOPE",
     "PNAME":"ROG Strix Scope",
-    "GNAME":"asus_rog_strix_scope.png",
+    "GNAME":"asus_strix_scope.png",
     "PRICE":"49.99",
     "MSRP":"199.99",
     "QONHAND":"75",
