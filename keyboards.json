@@ -1,5 +1,6 @@
 [
   {
+    "ID":"LOGIG610",
     "PNAME":"G610",
     "GNAME":"logitech_g610.png",
     "PRICE":"49.99",
@@ -10,6 +11,7 @@
     "BRAND":"Logitech"
   },
   {
+    "ID":"LOGIPRO",
     "PNAME":"PRO",
     "GNAME":"logitech_pro.png",
     "PRICE":"49.99",
@@ -20,6 +22,7 @@
     "BRAND":"Logitech"
   },
   {
+    "ID":"LOGIG512",
     "PNAME":"G512 CARBON",
     "GNAME":"logitech_g512.png",
     "PRICE":"29.99",
@@ -30,6 +33,7 @@
     "BRAND":"Logitech"
   },
   {
+    "ID":"LOGICRAFT",
     "PNAME":"CRAFT",
     "GNAME":"logitech_craft.png",
     "PRICE":"74.99",
@@ -40,6 +44,7 @@
     "BRAND":"Logitech"
   },
   {
+    "ID":"LOGIK600",
     "PNAME":"K600 TV",
     "GNAME":"logitech_k600.png",
     "PRICE":"19.99",
@@ -50,6 +55,7 @@
     "BRAND":"Logitech"
   },
   {
+    "ID":"RAZHUNT",
     "PNAME":"Huntsman",
     "GNAME":"razer_huntsman.png",
     "PRICE":"49.99",
@@ -60,6 +66,7 @@
     "BRAND":"Razer"
   },
   {
+    "ID":"RAZBLACK",
     "PNAME":"BlackWidow",
     "GNAME":"razer_blackwidow.png",
     "PRICE":"29.99",
@@ -70,6 +77,7 @@
     "BRAND":"Razer"
   },
   {
+    "ID":"RAZORNAT",
     "PNAME":"Ornata",
     "GNAME":"razer_ornata.png",
     "PRICE":"19.99",
@@ -80,6 +88,7 @@
     "BRAND":"Razer"
   },
   {
+    "ID":"RAZCYNOS",
     "PNAME":"Cynosa Chroma",
     "GNAME":"razer_cynosa_chroma.png",
     "PRICE":"19.99",
@@ -89,6 +98,7 @@
     "DESC":"Gaming Keyboard with Soft Cushioned Keys"
   },
   {
+    "ID":"RAZORBWEAV",
     "PNAME":"Orbweaver Chroma",
     "GNAME":"razer_orbweaver_chroma.png",
     "PRICE":"49.99",
@@ -99,6 +109,7 @@
     "BRAND":"Razer"
   },
   {
+    "ID":"ASUSCLAYMOR",
     "PNAME":"ROG Claymore",
     "GNAME":"asus_rog_claymore.png",
     "PRICE":"99.99",
@@ -109,6 +120,7 @@
     "BRAND":"ASUS"
   },
   {
+    "ID":"ASUSFLARE",
     "PNAME":"ROG Strix Flare",
     "GNAME":"asus_rog_strix_flare.png",
     "PRICE":"49.99",
@@ -119,6 +131,7 @@
     "BRAND":"ASUS"
   },
   {
+    "ID":"ASUSCERBER",
     "PNAME":"Cerberus Keyboard",
     "GNAME":"asus_cerberus_keyboard.png",
     "PRICE":"39.99",
@@ -129,6 +142,7 @@
     "BRAND":"ASUS"
   },
   {
+    "ID":"ASUSTUFK5",
     "PNAME":"TUF Gaming K5",
     "GNAME":"asus_tuf_gaming_k5.png",
     "PRICE":"19.99",
@@ -139,6 +153,7 @@
     "BRAND":"ASUS"
   },
   {
+    "ID":"ASUSSCOPE",
     "PNAME":"ROG Strix Scope",
     "GNAME":"asus_rog_strix_scope.png",
     "PRICE":"49.99",
